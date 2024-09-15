@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/fisica/static/css/main.c2fc4bb9.css",
-    "main.js": "/fisica/static/js/main.b491101c.js",
-    "static/js/903.83d8125a.chunk.js": "/fisica/static/js/903.83d8125a.chunk.js",
-    "static/js/959.3b2ae9ee.chunk.js": "/fisica/static/js/959.3b2ae9ee.chunk.js",
-    "static/js/453.266ebd85.chunk.js": "/fisica/static/js/453.266ebd85.chunk.js",
-    "static/js/749.7d89c3de.chunk.js": "/fisica/static/js/749.7d89c3de.chunk.js",
+    "main.js": "/fisica/static/js/main.8859ea3b.js",
+    "static/js/903.369a24cf.chunk.js": "/fisica/static/js/903.369a24cf.chunk.js",
+    "static/js/959.834571b2.chunk.js": "/fisica/static/js/959.834571b2.chunk.js",
+    "static/js/453.f71d2d7e.chunk.js": "/fisica/static/js/453.f71d2d7e.chunk.js",
+    "static/js/749.18293b15.chunk.js": "/fisica/static/js/749.18293b15.chunk.js",
     "static/media/Cinematica.png": "/fisica/static/media/Cinematica.f11224315146d10ede59.png",
     "static/media/Integrali.png": "/fisica/static/media/Integrali.ff36fc2d9160c40be8e9.png",
     "static/media/CR.png": "/fisica/static/media/CR.1f4a5f6f912a34679cc7.png",
@@ -27,13 +27,13 @@
     "static/media/CI.png": "/fisica/static/media/CI.97d27cd783263c8f9d39.png",
     "index.html": "/fisica/index.html",
     "main.c2fc4bb9.css.map": "/fisica/static/css/main.c2fc4bb9.css.map",
-    "main.b491101c.js.map": "/fisica/static/js/main.b491101c.js.map",
-    "959.3b2ae9ee.chunk.js.map": "/fisica/static/js/959.3b2ae9ee.chunk.js.map",
-    "453.266ebd85.chunk.js.map": "/fisica/static/js/453.266ebd85.chunk.js.map",
-    "749.7d89c3de.chunk.js.map": "/fisica/static/js/749.7d89c3de.chunk.js.map"
+    "main.8859ea3b.js.map": "/fisica/static/js/main.8859ea3b.js.map",
+    "959.834571b2.chunk.js.map": "/fisica/static/js/959.834571b2.chunk.js.map",
+    "453.f71d2d7e.chunk.js.map": "/fisica/static/js/453.f71d2d7e.chunk.js.map",
+    "749.18293b15.chunk.js.map": "/fisica/static/js/749.18293b15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2fc4bb9.css",
-    "static/js/main.b491101c.js"
+    "static/js/main.8859ea3b.js"
   ]
 }
