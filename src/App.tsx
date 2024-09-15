@@ -12,6 +12,8 @@ import Footer from './components/Footer';
 import Register from './components/Register';
 import CookieBanner from './components/CookieBanner';
 import PrivacyPolicy from './components/PrivacyPolicy';
+import Sitemap from './components/Sitemap'; // Assicurati di creare questo componente
+
 
 
 const Contact: React.FC = () => <h2>Contact Page</h2>;
@@ -449,6 +451,8 @@ function App() {
         <Container maxWidth="xl">
           <AnimatedBox>
             <Routes>
+            <Route path="/sitemap.xml" element={<Sitemap />} />
+
               <Route path="/" element={<Homepage />} />
               <Route path="/dispense" element={
                 <Dispense currentPage={currentPage} onPageChange={handlePageChange} />
