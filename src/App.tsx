@@ -12,7 +12,6 @@ import Footer from './components/Footer';
 import Register from './components/Register';
 import CookieBanner from './components/CookieBanner';
 import PrivacyPolicy from './components/PrivacyPolicy';
-import Sitemap from './components/Sitemap'; // Assicurati di creare questo componente
 
 
 
@@ -451,7 +450,6 @@ function App() {
         <Container maxWidth="xl">
           <AnimatedBox>
             <Routes>
-            <Route path="/sitemap.xml" element={<Sitemap />} />
 
               <Route path="/" element={<Homepage />} />
               <Route path="/dispense" element={
