@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           © {new Date().getFullYear()} Le tue dispense di fisica a portata di mano!
         </Typography>
         <Typography variant="body2" align="center">
-          <Link component={RouterLink} to="/privacy" color="inherit">
+          <Link component={RouterLink} to="/privacy-policy" color="inherit">
             Privacy Policy
           </Link>
           {' | '}
@@ -19,10 +19,10 @@ const Footer: React.FC = () => {
           </Link>
           {' | '}
           <Link component={RouterLink} to="/terms" color="inherit">
-            Prima di inizare
+            Prima di iniziare
           </Link>
           {' | '}
-          <Link component={RouterLink} to="/contact" color="inherit">
+          <Link component={RouterLink} to="/about-me" color="inherit">
             Contatti
           </Link>
         </Typography>

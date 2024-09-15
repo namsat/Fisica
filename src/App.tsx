@@ -11,7 +11,7 @@ import AboutMe from './components/AboutMe';
 import Footer from './components/Footer';
 import Register from './components/Register';
 import CookieBanner from './components/CookieBanner';
-
+import PrivacyPolicy from './components/PrivacyPolicy';
 
 
 const Contact: React.FC = () => <h2>Contact Page</h2>;
@@ -335,7 +335,7 @@ function App() {
     { text: 'Home', path: '/' },
     { text: 'Dispense', path: '/dispense' },
     { text: 'Accedi/Registrati', path: '/register' },
-    { text: 'About Me', path: '/about-me' }
+    { text: 'About Me', path: '/about-me' },
   ];
 
   const handlePageChange = (page: number) => {
@@ -459,6 +459,7 @@ function App() {
               <Route path="/ads.txt" element={
   <pre>google.com, pub-1815756038813221, DIRECT, f08c47fec0942fa0</pre>
 } />
+<Route path="/privacy-policy" element={<PrivacyPolicy />} />
             </Routes>
           </AnimatedBox>
         </Container>
