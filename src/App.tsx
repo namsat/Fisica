@@ -456,6 +456,9 @@ function App() {
               <Route path="/about-me" element={<AboutMe />} />
               <Route path="*" element={<Navigate to="/" />} />
               <Route path="/register" element={<Register />} />
+              <Route path="/ads.txt" element={
+  <pre>google.com, pub-1815756038813221, DIRECT, f08c47fec0942fa0</pre>
+} />
             </Routes>
           </AnimatedBox>
         </Container>
