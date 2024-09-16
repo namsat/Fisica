@@ -150,7 +150,7 @@ const AboutMe: React.FC = () => {
                     <LinkedIn fontSize="large" />
                   </ContactIcon>
                 </Link>
-                <Link href="https://github.com/namsat" target="_blank" rel="noopener noreferrer">
+                <Link href="https://github.com/" target="_blank" rel="noopener noreferrer">
                   <ContactIcon aria-label="GitHub">
                     <GitHub fontSize="large" />
                   </ContactIcon>
